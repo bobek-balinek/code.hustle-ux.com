@@ -1,4 +1,4 @@
 code.hustle-ux.com
 ==================
 
-My codeblog
+My blog for code snippets, forked from [Codeblog](https://github.com/martinrue/codeblog)
