@@ -1,4 +1,5 @@
-# Yo Assemble These
+title: Yo Assemble These
+date: Jul 29 2013
 ---
 
 Example Assemble integration to your existing Yeoman project.
